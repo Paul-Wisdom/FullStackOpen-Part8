@@ -1,0 +1,6 @@
+[submodule "library-backend"]
+	path = library-backend
+	url = https://github.com/Paul-Wisdom/library-graphql-backend-fullstackopen.git
+[submodule "library-frontend"]
+	path = library-frontend
+	url = https://github.com/Paul-Wisdom/library-graphql-frontend-fullstackopen.git
